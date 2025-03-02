@@ -1,0 +1,32 @@
+{
+  "media": {
+    "root": "public/images",
+    "public": "public/"
+  },
+  "content": {
+    "root": "src/content"
+  },
+  "themeConfig": [
+    "src/config/config.json",
+    "src/config/menu.json",
+    "src/config/social.json",
+    "src/config/theme.json"
+  ],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content/projects",
+      "groupName": "Projects",
+      "include": "*.md",
+      "exclude": "_*.md"
+    },
+    {
+      "type": "folder",
+      "targetPath": "src/content/organizer",
+      "groupName": "Organizers",
+      "include": "*.md",
+      "exclude": "-*.md"
+    }
+  ],
+  "showCommitModal": false
+}

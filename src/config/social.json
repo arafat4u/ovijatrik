@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "FaFacebookF",
+      "link": "https://www.facebook.com/"
+    },
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://x.com/sadaqahme"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/company/sadaqah-made-easy/"
+    }
+  ]
+}

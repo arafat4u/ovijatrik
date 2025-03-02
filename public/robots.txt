@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sadaqahmadeeasy.com
+
+# Sitemaps
+Sitemap: https://sadaqahmadeeasy.com/sitemap.xml
