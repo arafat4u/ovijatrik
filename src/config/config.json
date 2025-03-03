@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Sadaqah Made Easy",
-    "base_url": "",
+    "title": "অভিযাত্রিক - Ovijatrik ",
+    "base_url": "https://ovijatrik.org",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
