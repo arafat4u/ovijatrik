@@ -3,7 +3,7 @@
     {
       "name": "facebook",
       "icon": "FaFacebookF",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/ovijatrik.dinajpur"
     },
     {
       "name": "twitter",
@@ -15,5 +15,6 @@
       "icon": "FaLinkedinIn",
       "link": "https://www.linkedin.com/company/sadaqah-made-easy/"
     }
-  ]
+  ],
+  "draft": false
 }
