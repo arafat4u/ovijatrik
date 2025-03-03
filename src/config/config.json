@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "অভিযাত্রিক - Ovijatrik ",
-    "base_url": "https://ovijatrik.org",
+    "base_url": "",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "media/public/images/Logo PNG.png",
