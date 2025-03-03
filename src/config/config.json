@@ -1,14 +1,14 @@
 {
   "site": {
     "title": "অভিযাত্রিক - Ovijatrik ",
-    "base_url": "https://ovijatrik.org",
+    "base_url": "https://sadaqahmadeeasy.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "media/public/images/Logo PNG.png",
     "logo": "media/public/images/Ovijatrik-Logo-Transparent-(500x190).png",
-    "logo_footer": "/images/Ovijatrik-Logo-Transparent-(500x190).png",
+    "logo_footer": "/images/logo-footer.png",
     "logo_width": "200",
-    "logo_height": "45",
+    "logo_height": "76",
     "logo_text": "অভিযাত্রিক - Ovijatrik "
   },
   "settings": {
@@ -20,7 +20,7 @@
   },
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2024 [SadaqahMadeEasy](https://sadaqahmadeeasy.com) - All rights reserved - Donation doesn't decrease wealth",
+    "copyright": "Copyright © 2024 [অভিযাত্রিক - Ovijatrik ](http://ovijatrik.org/) - All rights reserved - Donation doesn't decrease wealth",
     "footer_description": "We don't collect money (sadaqah) and we aren't connected with any organization/party/group. We just showcase authentic donation projects of any type.",
     "tag_manager_id": ""
   },
@@ -33,5 +33,6 @@
     "meta_author": "Sadaqah Made Easy",
     "meta_image": "/images/og-image.png",
     "meta_description": "Donation doesn't decrease wealth"
-  }
+  },
+  "draft": false
 }
