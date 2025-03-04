@@ -28,9 +28,15 @@ const Home = () => {
           <h2 className="text-center mb-16">Projects</h2>
 
           <div className="row mx-auto g-4 relative z-20">
-            {sortedPosts?.map((post: Post) => (
-              <ProjectCard key={post.slug} project={post} />
-            ))}
+            {sortedPosts.length > 0 ? (
+              sortedPosts.map((post: Post, index: number) => (
+                <ProjectCard key={index} project={post} />
+              ))
+            ) : (
+              <p className="text-center text-gray-500">
+                Currently, there are no projects available.
+              </p>
+            )}
           </div>
         </div>
       </section>

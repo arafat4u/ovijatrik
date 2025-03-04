@@ -29,7 +29,7 @@ export default function RootLayout({
         {/* favicon */}
         <link rel="shortcut icon" href={config.site.favicon} />
         {/* theme meta */}
-        <meta name="theme-name" content="sadaqahme" />
+        <meta name="theme-name" content="Ovijatrik" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta
           name="theme-color"
@@ -49,9 +49,8 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          href={`https://fonts.googleapis.com/css2?family=${pf}${
-            sf ? "&family=" + sf : ""
-          }&display=swap`}
+          href={`https://fonts.googleapis.com/css2?family=${pf}${sf ? "&family=" + sf : ""
+            }&display=swap`}
           rel="stylesheet"
         />
       </head>
