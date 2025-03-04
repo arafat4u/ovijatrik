@@ -41,8 +41,10 @@ donation_goals:
         accountName: ''
         branch: ''
         reference: ''
-categories: []
-tags: []
+categories:
+  - adsfdsf
+tags:
+  - asdfasdf
 draft: false
 ---
 sdFdsfdsf
