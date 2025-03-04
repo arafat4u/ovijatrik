@@ -39,16 +39,18 @@ donation_goals:
           - ''
           - ''
     bank:
-      type: ''
-      image: ''
+      type: Bank
+      image: /images/CellFin.png
       details:
-        name: ''
-        account: ''
-        accountName: ''
-        branch: ''
-        reference: ''
-categories: []
-tags: []
+        name: IBBL
+        account: '23980238942394802'
+        accountName: qlwjkalsf
+        branch: sajfdlasdfj
+        reference: afsdfasdf
+categories:
+  - Goal
+tags:
+  - Money
 draft: false
 ---
 esdafadfs
