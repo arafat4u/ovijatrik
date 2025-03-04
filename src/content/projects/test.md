@@ -1,23 +1,37 @@
 ---
 title: test
-meta_title: ''
-description: ''
-date: ''
-image: ''
-organizer: ''
+meta_title: asdf
+description: asdf
+date: 04-03-2025
+image: /images/banner.png
+organizer: |-
+
+  al-quraner-dars
 project_end_date:
   enable: true
-  end_date: ''
+  end_date: 05-03-2025
 donation_goals:
   enable: true
-  amount: ''
+  amount: '300000'
   payment_methods:
     mobile_banking:
+      - type: Bkash
+        image: /images/projects/bkash.png
+        number: '3333333333'
+        reference: Murad
+        accountType: Personal
       - type: ''
         image: ''
         number: ''
         reference: ''
         accountType: ''
+        categories:
+          - ''
+          - ''
+          - ''
+          - ''
+        tags:
+          - ''
     bank:
       type: ''
       image: ''
@@ -29,5 +43,6 @@ donation_goals:
         reference: ''
 categories: []
 tags: []
-draft: true
+draft: false
 ---
+sdFdsfdsf
